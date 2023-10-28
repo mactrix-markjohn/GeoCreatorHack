@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/CesiumMesh.unity
+    path: Assets/Scenes/ImportantScenes/HistoricList.unity
+    guid: 2db1dcfa5643949d283d151974635948
+  - enabled: 1
+    path: Assets/Scenes/ImportantScenes/CesiumMeshEmpireState.unity
     guid: 6a619aeaed22f4337956dc58206b31dc
+  - enabled: 1
+    path: Assets/Scenes/ImportantScenes/CesiumMeshTheColosseum.unity
+    guid: 0f74d80b972b740aa9b24b5d361b0917
+  - enabled: 1
+    path: Assets/Scenes/ImportantScenes/CesiumMeshTheEiffelTower.unity
+    guid: e76cbe421b475405082d21aeda548589
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 83cb632d4319547dbb28f8bffaa73647, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 33d854170874146cc97c045fce7f280d, type: 2}

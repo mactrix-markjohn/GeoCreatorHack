@@ -60,7 +60,9 @@
       <Path>ProjectSettings</Path>
     </explicitIncludes>
     <explicitExcludes>
+      <Path>.git</Path>
       <Path>.idea</Path>
+      <Path>BuildiOS</Path>
       <Path>GeoCreatorHackEmpireGeo1_BurstDebugInformation_DoNotShip</Path>
       <Path>GeoCreatorHackEmpireGeo3CesiumMesh_BurstDebugInformation_DoNotShip</Path>
       <Path>GeoCreatorHackEmpireGeo_BurstDebugInformation_DoNotShip</Path>
